@@ -1,3 +1,3 @@
-## Para rodar o projeto
-# Acessar a pasta principal:
+# Para rodar o projeto
+## Acessar a pasta principal no terminal:
 ``Npm run dev``
